@@ -1,0 +1,165 @@
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+C:\Users\Asus\Documents\UT_School\BackEnd\Day12_SAP\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+C:\Users\Asus\Documents\DAY5 RESEP\backend\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.exe
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.deps.json
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.runtimeconfig.json
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Stackup.Api.pdb
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.AssemblyInfo.cs
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\scopedcss\bundle\Stackup.Api.styles.css
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.csproj.CopyComplete
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\refint\Stackup.Api.dll
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.pdb
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\Stackup.Api.genruntimeconfig.cache
+C:\Users\Asus\Documents\DAY5 RESEP\frontend\Stackup.Api\obj\Debug\net6.0\ref\Stackup.Api.dll

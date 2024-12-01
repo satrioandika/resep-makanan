@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "david",
+      "password": "david"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "ingredients": "Spaghetti, telur, pancetta, keju parmesan, lada hitam",
+      "instructions": "Rebus spaghetti hingga al dente. Goreng pancetta hingga renyah. Campur telur dengan keju parmesan dan lada hitam. Campurkan semua bahan dan sajikan hangat."
+    },
+    {
+      "id": "3",
+      "name": "Beef Stroganoff",
+      "ingredients": "Daging sapi, jamur, bawang, sour cream, mustard",
+      "instructions": "Tumis daging sapi dengan bawang dan jamur hingga matang. Tambahkan sour cream dan mustard. Aduk hingga saus mengental. Sajikan dengan nasi atau pasta."
+    },
+    {
+      "id": "4",
+      "name": "Caesar Salad",
+      "ingredients": "Selada, crouton, keju parmesan, saus Caesar",
+      "instructions": "Campur selada dengan crouton, keju parmesan, dan saus Caesar. Aduk rata dan sajikan segera."
+    },
+    {
+      "id": "5",
+      "name": "Nasi Goreng",
+      "ingredients": "Nasi putih, kecap, bawang merah, bawang putih, terasi, telur, ayam",
+      "instructions": "Tumis bawang merah, bawang putih, dan terasi hingga harum. Masukkan telur dan ayam. Tambahkan nasi putih dan kecap. Aduk rata dan sajikan panas."
+    },
+    {
+      "id": "6",
+      "name": "Gado-Gado",
+      "ingredients": "Sayuran (kol, tauge, bayam), tahu, tempe, telur rebus, saus kacang",
+      "instructions": "Rebus sayuran, tahu, dan tempe. Sajikan dengan telur rebus dan saus kacang."
+    },
+    {
+      "id": "7",
+      "name": "Sate Ayam",
+      "ingredients": "Tusuk sate ayam, saus kacang, kecap, air jeruk nipis",
+      "instructions": "Marinasi tusuk sate ayam dengan kecap, saus kacang, dan air jeruk nipis. Panggang hingga matang dan sajikan dengan saus kacang."
+    },
+    {
+      "id": "8",
+      "name": "Rendang",
+      "ingredients": "Daging sapi, santan kelapa, serai, lengkuas, kunyit, cabai, daun jeruk",
+      "instructions": "Rebus daging sapi dengan santan kelapa dan bumbu hingga empuk dan saus mengental."
+    },
+    {
+      "id": "9",
+      "name": "Soto Ayam",
+      "ingredients": "Ayam, mie vermicelli, tauge, telur rebus, sambal, jeruk nipis, daun seledri",
+      "instructions": "Rebus ayam dengan bumbu. Sajikan dengan mie vermicelli, tauge, telur rebus, sambal, jeruk nipis, dan daun seledri."
+    },
+    {
+      "id": "10",
+      "name": "Martabak Manis",
+      "ingredients": "Tepung terigu, ragi, gula, susu, telur, meses, susu kental manis",
+      "instructions": "Buat adonan dengan tepung terigu, ragi, gula, dan susu. Isi dengan meses. Panggang hingga kecoklatan. Sajikan dengan susu kental manis."
+    },
+    {
+      "id": "11",
+      "name": "Bakso",
+      "ingredients": "Bakso sapi, mie, tauge, bawang merah goreng, kecap, sambal",
+      "instructions": "Rebus bakso sapi dalam kaldu. Sajikan dengan mie, tauge, bawang merah goreng, kecap, dan sambal."
+    },
+    {
+      "id": "13",
+      "name": "Ayam Goreng",
+      "ingredients": "Ayam, kunyit, bawang putih, bawang merah, kemiri, daun salam, lengkuas",
+      "instructions": "Marinasi ayam dengan bumbu. Goreng hingga keemasan dan matang."
+    },
+    {
+      "id": "14",
+      "name": "Pisang Goreng",
+      "ingredients": "Pisang, tepung terigu, gula, garam, air, minyak goreng",
+      "instructions": "Celup pisang ke adonan tepung terigu. Goreng hingga keemasan. Sajikan panas."
+    },
+    {
+      "id": "15",
+      "name": "Rujak",
+      "ingredients": "Buah-buahan (nanas, mangga, timun), gula merah, asam jawa, kacang tanah, cabai, terasi",
+      "instructions": "Campur buah-buahan dengan gula merah, asam jawa, kacang tanah, cabai, dan terasi. Sajikan dingin."
+    },
+    {
+      "id": "16",
+      "name": "Nasi Kuning Balado",
+      "ingredients": "nasi kuning sama balado",
+      "instructions": "masukan nasi dan bumbu balado"
+    },
+    {
+      "id": "17",
+      "name": "ajajkak",
+      "ingredients": "abjakak",
+      "instructions": "abakka"
+    }
+  ],
+  "favoriteRecipes": []
+}
